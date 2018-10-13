@@ -62,9 +62,11 @@ se expandtab sw=4
 ```
 (venv) $ pip install opencv-python
 ```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzUwMzA2NywxNjM1NDg4MzcyLC0yOD
-k5NTg5OCwxMzY2NDY1NzI1LC03Nzc1MjYwNDUsMTg1NzkwNjAw
-Nyw0ODg5NTQ2ODksLTEyNDMwNDQ4MDksLTYzMzU0MDc3NCwxMT
-YzNjg3NzgzXX0=
+eyJoaXN0b3J5IjpbLTEwMDczNjY2MDEsMjA0NzUwMzA2NywxNj
+M1NDg4MzcyLC0yODk5NTg5OCwxMzY2NDY1NzI1LC03Nzc1MjYw
+NDUsMTg1NzkwNjAwNyw0ODg5NTQ2ODksLTEyNDMwNDQ4MDksLT
+YzMzU0MDc3NCwxMTYzNjg3NzgzXX0=
 -->
