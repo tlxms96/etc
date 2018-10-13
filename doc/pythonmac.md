@@ -1,13 +1,14 @@
 # python
 
-```
+```bash
 python --version
 pip --version
 pip install virtualenv #install virtualenv
 mkdir workspace
-cd worksp
+cd workspace
+pwd
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2MzY3Mjk5LC02MzM1NDA3NzQsMTE2Mz
-Y4Nzc4M119
+eyJoaXN0b3J5IjpbLTEyNDMwNDQ4MDksLTYzMzU0MDc3NCwxMT
+YzNjg3NzgzXX0=
 -->
