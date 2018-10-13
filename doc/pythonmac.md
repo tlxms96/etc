@@ -23,7 +23,13 @@ deactivate
 #강제종료
 :q!
 ```
+`~/.vimrc` (mac)
+```
+syntax on
+se expandtab sw=4
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzkwNjAwNyw0ODg5NTQ2ODksLTEyND
-MwNDQ4MDksLTYzMzU0MDc3NCwxMTYzNjg3NzgzXX0=
+eyJoaXN0b3J5IjpbLTc3NzUyNjA0NSwxODU3OTA2MDA3LDQ4OD
+k1NDY4OSwtMTI0MzA0NDgwOSwtNjMzNTQwNzc0LDExNjM2ODc3
+ODNdfQ==
 -->
