@@ -22,6 +22,10 @@ deactivate
 :q
 #강제종료
 :q!
+#저장
+:w
+#저장하고 끝내기
+:wq
 ```
 `~/.vimrc` (mac)
 ```
@@ -29,7 +33,7 @@ syntax on
 se expandtab sw=4
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzUyNjA0NSwxODU3OTA2MDA3LDQ4OD
-k1NDY4OSwtMTI0MzA0NDgwOSwtNjMzNTQwNzc0LDExNjM2ODc3
-ODNdfQ==
+eyJoaXN0b3J5IjpbMTM2NjQ2NTcyNSwtNzc3NTI2MDQ1LDE4NT
+c5MDYwMDcsNDg4OTU0Njg5LC0xMjQzMDQ0ODA5LC02MzM1NDA3
+NzQsMTE2MzY4Nzc4M119
 -->
