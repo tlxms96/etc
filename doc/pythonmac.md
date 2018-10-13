@@ -82,13 +82,23 @@ ifconfig
 turn off windows explorer integration
 use git from git bash only
 checkout as-is commit as-is
+
 ##### anaconda path
 c:\programdata\anaconda2
 c:\programdata\anaconda2\Scripts
+
+#### virtualenv
+```bash
+mkdir workspace
+cd workspace
+pip install virtualenv
+virutalenv venv
+source venv/bin/activate
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjUwMDUyMTIsLTE2MTUzMjIxNjUsMj
-AyODg5MDc2NCwtMjEwMzEzMjIxMSwyMDQ3NTAzMDY3LDE2MzU0
-ODgzNzIsLTI4OTk1ODk4LDEzNjY0NjU3MjUsLTc3NzUyNjA0NS
-wxODU3OTA2MDA3LDQ4ODk1NDY4OSwtMTI0MzA0NDgwOSwtNjMz
-NTQwNzc0LDExNjM2ODc3ODNdfQ==
+eyJoaXN0b3J5IjpbLTE3Mjc1MDQ4MzUsLTEzNjUwMDUyMTIsLT
+E2MTUzMjIxNjUsMjAyODg5MDc2NCwtMjEwMzEzMjIxMSwyMDQ3
+NTAzMDY3LDE2MzU0ODgzNzIsLTI4OTk1ODk4LDEzNjY0NjU3Mj
+UsLTc3NzUyNjA0NSwxODU3OTA2MDA3LDQ4ODk1NDY4OSwtMTI0
+MzA0NDgwOSwtNjMzNTQwNzc0LDExNjM2ODc3ODNdfQ==
 -->
