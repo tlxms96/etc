@@ -68,10 +68,16 @@ default web port: 80
 telnet: 21  
 ssh: 22  
 
-devport: 8888```
+devport: 8888
+
+#### ip address
+```bash
+# mac ipaddress
+ifconfig
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDMxMzIyMTEsLTE1OTk0NTY2OTcsMj
-A0NzUwMzA2NywxNjM1NDg4MzcyLC0yODk5NTg5OCwxMzY2NDY1
-NzI1LC03Nzc1MjYwNDUsMTg1NzkwNjAwNyw0ODg5NTQ2ODksLT
-EyNDMwNDQ4MDksLTYzMzU0MDc3NCwxMTYzNjg3NzgzXX0=
+eyJoaXN0b3J5IjpbMjAyODg5MDc2NCwtMjEwMzEzMjIxMSwyMD
+Q3NTAzMDY3LDE2MzU0ODgzNzIsLTI4OTk1ODk4LDEzNjY0NjU3
+MjUsLTc3NzUyNjA0NSwxODU3OTA2MDA3LDQ4ODk1NDY4OSwtMT
+I0MzA0NDgwOSwtNjMzNTQwNzc0LDExNjM2ODc3ODNdfQ==
 -->
