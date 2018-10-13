@@ -14,9 +14,16 @@ virtualenv venv
 source venv/bin/activate
 #exit virtualenv
 deactivate
+```
 
+# vi
+```
+#종료
+:q
+#강제종료
+:q!
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4OTU0Njg5LC0xMjQzMDQ0ODA5LC02Mz
-M1NDA3NzQsMTE2MzY4Nzc4M119
+eyJoaXN0b3J5IjpbMTg1NzkwNjAwNyw0ODg5NTQ2ODksLTEyND
+MwNDQ4MDksLTYzMzU0MDc3NCwxMTYzNjg3NzgzXX0=
 -->
