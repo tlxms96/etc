@@ -36,7 +36,10 @@ x
 dd
 # delete word
 dw
-# 
+# insert line upper
+O
+# insert line lower
+o
 ```
 `~/.vimrc` (mac)
 ```
@@ -44,7 +47,7 @@ syntax on
 se expandtab sw=4
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDAzNzU1OCwxMzY2NDY1NzI1LC03Nz
-c1MjYwNDUsMTg1NzkwNjAwNyw0ODg5NTQ2ODksLTEyNDMwNDQ4
-MDksLTYzMzU0MDc3NCwxMTYzNjg3NzgzXX0=
+eyJoaXN0b3J5IjpbLTI4OTk1ODk4LDEzNjY0NjU3MjUsLTc3Nz
+UyNjA0NSwxODU3OTA2MDA3LDQ4ODk1NDY4OSwtMTI0MzA0NDgw
+OSwtNjMzNTQwNzc0LDExNjM2ODc3ODNdfQ==
 -->
