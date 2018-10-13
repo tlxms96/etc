@@ -79,11 +79,14 @@ ifconfig
 # project 1011_lecture.py windows
 
 #### install git bash
-
+turn off windows explorer integration
+##### anaconda path
+c:\programdata\anaconda2
+c:\programdata\anaconda2\Scripts
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTUzMjIxNjUsMjAyODg5MDc2NCwtMj
-EwMzEzMjIxMSwyMDQ3NTAzMDY3LDE2MzU0ODgzNzIsLTI4OTk1
-ODk4LDEzNjY0NjU3MjUsLTc3NzUyNjA0NSwxODU3OTA2MDA3LD
-Q4ODk1NDY4OSwtMTI0MzA0NDgwOSwtNjMzNTQwNzc0LDExNjM2
-ODc3ODNdfQ==
+eyJoaXN0b3J5IjpbMzE1NTIxMTMyLC0xNjE1MzIyMTY1LDIwMj
+g4OTA3NjQsLTIxMDMxMzIyMTEsMjA0NzUwMzA2NywxNjM1NDg4
+MzcyLC0yODk5NTg5OCwxMzY2NDY1NzI1LC03Nzc1MjYwNDUsMT
+g1NzkwNjAwNyw0ODg5NTQ2ODksLTEyNDMwNDQ4MDksLTYzMzU0
+MDc3NCwxMTYzNjg3NzgzXX0=
 -->
