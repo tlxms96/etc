@@ -93,12 +93,14 @@ mkdir workspace
 cd workspace
 pip install virtualenv
 virutalenv venv
-source venv/bin/activate
+# in git bash windows
+source venv/Scripts/activate
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjc1MDQ4MzUsLTEzNjUwMDUyMTIsLT
-E2MTUzMjIxNjUsMjAyODg5MDc2NCwtMjEwMzEzMjIxMSwyMDQ3
-NTAzMDY3LDE2MzU0ODgzNzIsLTI4OTk1ODk4LDEzNjY0NjU3Mj
-UsLTc3NzUyNjA0NSwxODU3OTA2MDA3LDQ4ODk1NDY4OSwtMTI0
-MzA0NDgwOSwtNjMzNTQwNzc0LDExNjM2ODc3ODNdfQ==
+eyJoaXN0b3J5IjpbMzQzODU0ODI3LC0xNzI3NTA0ODM1LC0xMz
+Y1MDA1MjEyLC0xNjE1MzIyMTY1LDIwMjg4OTA3NjQsLTIxMDMx
+MzIyMTEsMjA0NzUwMzA2NywxNjM1NDg4MzcyLC0yODk5NTg5OC
+wxMzY2NDY1NzI1LC03Nzc1MjYwNDUsMTg1NzkwNjAwNyw0ODg5
+NTQ2ODksLTEyNDMwNDQ4MDksLTYzMzU0MDc3NCwxMTYzNjg3Nz
+gzXX0=
 -->
