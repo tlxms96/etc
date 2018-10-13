@@ -48,6 +48,8 @@ yy
 P
 # paste to lower
 p
+# move to the first line
+1G
 ```
 `~/.vimrc` (mac)
 ```
@@ -55,7 +57,7 @@ syntax on
 se expandtab sw=4
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTc4MTg0NCwtMjg5OTU4OTgsMTM2Nj
+eyJoaXN0b3J5IjpbMTYzNTQ4ODM3MiwtMjg5OTU4OTgsMTM2Nj
 Q2NTcyNSwtNzc3NTI2MDQ1LDE4NTc5MDYwMDcsNDg4OTU0Njg5
 LC0xMjQzMDQ0ODA5LC02MzM1NDA3NzQsMTE2MzY4Nzc4M119
 -->
