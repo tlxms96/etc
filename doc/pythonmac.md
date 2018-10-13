@@ -56,8 +56,15 @@ p
 syntax on
 se expandtab sw=4
 ```
+
+# project 1011_lecture.py
+
+```
+(venv) $ pip install opencv-python
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTQ4ODM3MiwtMjg5OTU4OTgsMTM2Nj
-Q2NTcyNSwtNzc3NTI2MDQ1LDE4NTc5MDYwMDcsNDg4OTU0Njg5
-LC0xMjQzMDQ0ODA5LC02MzM1NDA3NzQsMTE2MzY4Nzc4M119
+eyJoaXN0b3J5IjpbMjA0NzUwMzA2NywxNjM1NDg4MzcyLC0yOD
+k5NTg5OCwxMzY2NDY1NzI1LC03Nzc1MjYwNDUsMTg1NzkwNjAw
+Nyw0ODg5NTQ2ODksLTEyNDMwNDQ4MDksLTYzMzU0MDc3NCwxMT
+YzNjg3NzgzXX0=
 -->
