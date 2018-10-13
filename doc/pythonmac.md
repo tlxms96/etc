@@ -40,6 +40,14 @@ dw
 O
 # insert line lower
 o
+# copy single line
+yy
+# copy 4 lines
+4yy
+# paste to upper
+P
+# paste to lower
+p
 ```
 `~/.vimrc` (mac)
 ```
@@ -47,7 +55,7 @@ syntax on
 se expandtab sw=4
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTk1ODk4LDEzNjY0NjU3MjUsLTc3Nz
-UyNjA0NSwxODU3OTA2MDA3LDQ4ODk1NDY4OSwtMTI0MzA0NDgw
-OSwtNjMzNTQwNzc0LDExNjM2ODc3ODNdfQ==
+eyJoaXN0b3J5IjpbMTg1NTc4MTg0NCwtMjg5OTU4OTgsMTM2Nj
+Q2NTcyNSwtNzc3NTI2MDQ1LDE4NTc5MDYwMDcsNDg4OTU0Njg5
+LC0xMjQzMDQ0ODA5LC02MzM1NDA3NzQsMTE2MzY4Nzc4M119
 -->
