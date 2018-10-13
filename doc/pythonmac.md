@@ -30,6 +30,13 @@ deactivate
 i
 # append
 a
+# delete char
+x
+# delete line
+dd
+# delete word
+dw
+# 
 ```
 `~/.vimrc` (mac)
 ```
@@ -37,7 +44,7 @@ syntax on
 se expandtab sw=4
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDUwNDkyNjAsMTM2NjQ2NTcyNSwtNz
-c3NTI2MDQ1LDE4NTc5MDYwMDcsNDg4OTU0Njg5LC0xMjQzMDQ0
-ODA5LC02MzM1NDA3NzQsMTE2MzY4Nzc4M119
+eyJoaXN0b3J5IjpbMTc5NDAzNzU1OCwxMzY2NDY1NzI1LC03Nz
+c1MjYwNDUsMTg1NzkwNjAwNyw0ODg5NTQ2ODksLTEyNDMwNDQ4
+MDksLTYzMzU0MDc3NCwxMTYzNjg3NzgzXX0=
 -->
